@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-05-23 10:11+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: de\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/components/error-element.tsx:12
+msgid "Error"
+msgstr "Error"
+
+#: src/app/app.tsx:58
+msgid "Hello World"
+msgstr "Hallo Welt"
+
+#: src/components/main-nav.tsx:12
+msgid "Home"
+msgstr "Startseite"
+
+#: src/components/language-menu.tsx:30
+msgid "Language"
+msgstr "Sprache"
+
+#: src/components/error-element.tsx:23
+msgid "Retry"
+msgstr "Erneut versuchen"
+
+#: src/components/language-menu.tsx:26
+msgid "Select language"
+msgstr "Sprache auswahlen"
+
+#: src/components/error-element.tsx:15
+msgid "Sorry, an unexpected error has occurred:"
+msgstr "Entschuldigung, ein unerwarteter Fehler ist aufgetreten:"
+
+#: src/components/color-mode-toggle.tsx:14
+msgid "Toggle color mode"
+msgstr "Farbmodus wechseln"
